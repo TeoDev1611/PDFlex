@@ -1,3 +1,7 @@
+__pycache__
 .venv/
-temp_outputs/
+.env
 temp_uploads/
+temp_outputs/
+*.pdf
+*.zip
